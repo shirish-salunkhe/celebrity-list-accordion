@@ -2,6 +2,7 @@
   "name": "userlist-accordion-factwise-assignment",
   "version": "1.0.0",
   "description": "This project demonstrates the implementation of Accordian which was given as an assignment by Factwise as a part of interview process.",
+  "homepage" : "https://shirish-salunkhe.github.io/celebrity-list-accordion",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
