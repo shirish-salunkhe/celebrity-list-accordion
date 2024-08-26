@@ -1,3 +1,12 @@
+Live Link (Deployed on Vercel) - https://celebrity-list-accordion.vercel.app/
+
+Thanks for giving me an opportunity, it was an exciting task and a great experience with some new learnings. I have gone through the below problem statement and tried to complete the assignment as accurately as possible, but still if some bugs found or any room for improvements, then please let me know!
+
+
+
+
+PROBLEM STATEMENT : 
+
 You are a famous hacker who has access to a list of the world's most famous celebrities.
 You have to create a system where you can view and edit their details to hide their public presence.
 
